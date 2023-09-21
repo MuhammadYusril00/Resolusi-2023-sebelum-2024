@@ -4,3 +4,4 @@ resolusi 2023 sebelum masuk 2024
 3. pelajari Javascript
 4. pelajari tailwind
 5. palajari frmework javascript
+6. pelajari API
